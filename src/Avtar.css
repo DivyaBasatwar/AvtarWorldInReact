@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+body{
+  background: #ccccbd;
+}
+.mainpage{
+  width: 90%;
+  height: 80vh;
+  margin: auto;
+  font-family: 'Gugi', cursive;
+  border: 4px solid blue;
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  border-radius: 50px;
+}
+
+.mainpage h1{
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.avtarStyle img{
+  width: 200px;
+  height: 200px;
+}
+
+.mainpage button{
+  margin-left: 40px;
+  height: 50px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: violet;
+  border: 2px solid white;
+}
+
+.mainpage button:hover{
+  height: 60px;
+  width: 110px;
+}
